@@ -1,8 +1,9 @@
 # docker-php-mysql-nginx
 
-## Instructions
+## Usage
 
-```git clone https://github.com/maxsquared/docker-php-mysql-nginx.git
+```
+git clone https://github.com/maxsquared/docker-php-mysql-nginx.git
 cd docker-php-mysql-nginx
 docker-compose up
 ```
