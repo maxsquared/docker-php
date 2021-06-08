@@ -10,12 +10,12 @@ docker-compose up
 
 Wait for magic to happen
 
-Make any chances in _*src*_ directory then you are good to go.
+Make any chances in **src** directory then you are good to go.
 
-Use port 8080 for the website: _http://localhost:8080_
+Use port **8080** for the website: _http://localhost:8080_
 
 ### MySQL
 
-Password is: _supersafepassword_, and can be change in docker-compose.yml
+Password is: **supersafepassword**, and can be change in docker-compose.yml
 
-When connecting to MySQL server ensure to use server name: _php_mysql_1_, localhost will not work
+When connecting to MySQL server ensure to use server name: **php_mysql_1**, localhost will not work
