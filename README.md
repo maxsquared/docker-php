@@ -19,7 +19,7 @@ docker-compose up
 
 Wait for magic to happen
 
-Make any chances in **src** directory then you are good to go.
+Make a directory: **src** and put your php files in this direcotry, then you are good to go.
 
 Use port **8080** for the website: _http://localhost:8080_
 
