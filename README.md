@@ -2,9 +2,9 @@
 
 ## Usage
 
-Launch Terminal or CMD
+Launch Terminal or CMD, CD into a directory where you usually keep your codes.
 
-First time, clone this repository by using the command below:
+For the first time, clone this repository by using the command below:
 
 ```
 git clone https://github.com/maxsquared/docker-php-mysql-nginx.git
