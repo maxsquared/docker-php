@@ -17,6 +17,7 @@ Use port **8080** for the website: _http://localhost:8080_
 ### MySQL
 
 Username: root
+
 Password: **supersafepassword**
 
 Password can be change in _docker-compose.yml_
