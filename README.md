@@ -3,8 +3,8 @@
 ## Instructions
 
 `git clone https://github.com/maxsquared/docker-php-mysql-nginx.git`
-`cd docker-php-mysql-nginx`
-`docker-compose up`
+cd docker-php-mysql-nginx
+docker-compose up`
 
 Wait for magic to happen
 
