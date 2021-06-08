@@ -2,8 +2,15 @@
 
 ## Usage
 
+Launch Terminal or CMD
+
+First time, clone this repository by using the command below:
+
+`git clone https://github.com/maxsquared/docker-php-mysql-nginx.git`
+
+Then anytime you need to run php just run the following command
+
 ```
-git clone https://github.com/maxsquared/docker-php-mysql-nginx.git
 cd docker-php-mysql-nginx
 docker-compose up
 ```
