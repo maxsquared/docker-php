@@ -2,6 +2,8 @@
 
 ## Usage
 
+First install Docker
+
 Launch Terminal or CMD, CD into a directory where you usually keep your codes.
 
 For the first time, clone this repository by using the command below:
@@ -14,7 +16,7 @@ Then anytime you need to run php just run the following command
 
 ```
 cd docker-php-mysql-nginx
-docker-compose up
+docker compose up
 ```
 
 Wait for magic to happen
