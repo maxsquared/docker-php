@@ -2,15 +2,31 @@
 
 ## Usage
 
+### Installation
+
+#### Step 1:
+
 First install Docker
+
+#### Step 2:
+
+There are 2 ways to get PHP running.
+
+##### Option 1
+
+Download the folder by clicking on the **code** button
+
+##### Option 2
 
 Launch Terminal or CMD, CD into a directory where you usually keep your codes.
 
-For the first time, either download the folder by clicking on the **code** button or clone this repository by using the command below:
+Clone this repository by using the command below:
 
 ```
 git clone https://github.com/maxsquared/docker-php-mysql-nginx.git
 ```
+
+#### Launch PHP environment
 
 Then anytime you need to run php just run the following command
 
