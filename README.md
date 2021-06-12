@@ -14,7 +14,7 @@ There are 2 ways to get PHP running.
 
 ##### Option 1
 
-Download the folder by clicking on the **code** button
+Download the folder by clicking on the **code** button, then **download zip**
 
 ##### Option 2
 
@@ -40,6 +40,10 @@ Wait for magic to happen
 Make a directory in docker-php-mysql-nginx: **src** and put your php or project files in this direcotry, then you are good to go.
 
 Use port **8080** for the website: _http://localhost:8080_
+
+### To end the process
+
+Use control + c (Win) or CMD + c (Mac)
 
 ### MySQL
 
