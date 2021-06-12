@@ -21,7 +21,7 @@ docker compose up
 
 Wait for magic to happen
 
-Make a directory: **src** and put your php files in this direcotry, then you are good to go.
+Make a directory in docker-php-mysql-nginx: **src** and put your php or project files in this direcotry, then you are good to go.
 
 Use port **8080** for the website: _http://localhost:8080_
 
