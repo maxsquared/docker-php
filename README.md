@@ -26,7 +26,7 @@ Clone this repository by using the command below:
 git clone https://github.com/maxsquared/docker-php-mysql-nginx.git
 ```
 
-#### Launch PHP environment
+### Launch PHP environment
 
 Then anytime you need to run php just run the following command
 
