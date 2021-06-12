@@ -16,6 +16,8 @@ There are 2 ways to get PHP running.
 
 Download the folder by clicking on the **code** button, then **download zip**
 
+Unzip docker-php-mysql-nginx
+
 ##### Option 2
 
 Launch Terminal or CMD, CD into a directory where you usually keep your codes.
