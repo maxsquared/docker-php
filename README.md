@@ -45,7 +45,8 @@ Use port **8080** for the website: _http://localhost:8080_
 
 ### To end the process
 
-Use control + c (Win) or CMD + c (Mac)
+Go back to the terminal
+Use control + c (Win/Mac)
 
 ### MySQL
 
