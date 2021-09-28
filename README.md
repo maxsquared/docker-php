@@ -20,7 +20,7 @@ Unzip docker-php-mysql-nginx
 
 ##### Option 2
 
-Require git install on your computer, check and install: Check if you have git installed, if not install git:
+Require git install on your computer, check if you have git installed, if not install git:
 https://github.com/git-guides/install-git
 
 Launch Terminal or CMD, CD into a directory where you usually keep your codes.
