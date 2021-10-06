@@ -64,8 +64,13 @@ When connecting to MySQL server ensure to use server name: **php_mysql_1**, loca
 ### Optional Step - This will allow auto formatting for PHP on save
 
 First install Node JS from this link: _https://nodejs.org/en/_
-Install dev dependences by running the following command from DOCKER-PHP-MYSQL-NGINX directory in your Terminal(Mac) or CMD(Windows): npm install
+
+Install dev dependences by running the following command from
+
+DOCKER-PHP-MYSQL-NGINX directory in your Terminal(Mac) or CMD(Windows): npm install
+
 Once finished the step, restart Visual Studio code
+
 PHP documents should now auto format whenever you save any changes.
 
 #### Problems
