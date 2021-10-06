@@ -60,3 +60,25 @@ Password: **supersafepassword**
 Password can be change in _docker-compose.yml_
 
 When connecting to MySQL server ensure to use server name: **php_mysql_1**, localhost will not work.
+
+### Optional Step - This will allow auto formatting for PHP on save
+
+First install Node JS from this link: _https://nodejs.org/en/_
+Install dev dependences by running the following command from DOCKER-PHP-MYSQL-NGINX directory in your Terminal(Mac) or CMD(Windows): npm install
+Once finished the step, restart Visual Studio code
+PHP documents should now auto format whenever you save any changes.
+
+#### Problems
+
+If auto save doesn't work for you, follow step below:
+Type CMD + SHIFT + P (Mac) or Control + Shift + P (Windows)
+Find by typing: Preferences: Open settings (JSON) and select this option
+Scroll to the end of the document, before the closing curly bracket and paste in the following code:
+
+```
+"[php]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+```
