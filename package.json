@@ -1,0 +1,24 @@
+{
+  "name": "docker-php-mysql-nginx",
+  "version": "1.0.0",
+  "description": "## Usage",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsquared/docker-php-mysql-nginx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsquared/docker-php-mysql-nginx/issues"
+  },
+  "homepage": "https://github.com/maxsquared/docker-php-mysql-nginx#readme",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.17.5",
+    "prettier": "^2.4.1"
+  }
+}
