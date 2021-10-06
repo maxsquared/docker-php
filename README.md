@@ -73,7 +73,7 @@ PHP documents should now auto format whenever you save any changes.
 If auto save doesn't work for you, follow step below:
 Type CMD + SHIFT + P (Mac) or Control + Shift + P (Windows)
 Find by typing: Preferences: Open settings (JSON) and select this option
-Scroll to the end of the document, before the closing curly bracket and paste in the following code:
+Scroll to the end of the document, **before the closing curly (}) bracket** and paste in the following code:
 
 ```
 "[php]": {
