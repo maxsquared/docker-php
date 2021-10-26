@@ -1,0 +1,13 @@
+{
+    "tabWidth": 4,
+    "useTabs": true,
+    "semi": true,
+    "overrides": [
+        {
+            "files": "*.php",
+            "options": {
+                "tabWidth": 4
+            }
+        }
+    ]
+}
